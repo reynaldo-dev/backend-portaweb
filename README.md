@@ -16,6 +16,6 @@ Api encargada de la gestion de:
 * Postgres
 
 # instalacion
-* git clone https://github.com/reynaldo-dev/-frontend-porta-web.git
+* git clone https://github.com/reynaldo-dev/backend-portaweb.git
 * re-build
 * Ejecutar la solución
